@@ -1,1 +1,1 @@
-python:3.10.9
+osgeo/gdal:ubuntu-full-3.6.2
