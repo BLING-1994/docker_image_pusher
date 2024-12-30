@@ -1,2 +1,1 @@
-victortran2023/cuda11.8-cudnn8.9.0-tensorrt8.6.1-ubuntu22.04:latest
-
+pytorch/pytorch:2.2.1-cuda11.8-cudnn8-runtime
