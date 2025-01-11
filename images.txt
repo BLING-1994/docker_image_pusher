@@ -1,2 +1,2 @@
-openmmlab/mmdeploy:ubuntu20.04-cuda11.3-mmdeploy1.2.0
+nats:latest
 
