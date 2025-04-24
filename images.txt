@@ -1,2 +1,2 @@
-akihikokayaba/py3.12-torch2.4-cu12.1:latest
+condaforge/linux-anvil-aarch64-cuda11.8:ubi8
 
