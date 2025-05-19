@@ -1,1 +1,1 @@
-drewjgray/orin-gpu-35.3.1:latest
+vickllny/rasterio-aarch64:latest
