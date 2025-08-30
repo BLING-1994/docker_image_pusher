@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 dustynv/onnxruntime:1.20-r36.4.0
+hakanardo/dinov3:latest
