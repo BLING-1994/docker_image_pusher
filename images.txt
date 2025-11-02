@@ -1,1 +1,2 @@
-langflowai/langflow:latest
+kartoza/postgis:16-3
+--platform=linux/arm64
