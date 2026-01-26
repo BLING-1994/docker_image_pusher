@@ -1,2 +1,1 @@
-kartoza/postgis:16-3
---platform=linux/arm64
+python:3.10
